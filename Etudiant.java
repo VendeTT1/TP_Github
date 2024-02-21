@@ -2,8 +2,8 @@ public class Etudiant{
 	private Long id;
 	private String nom;
 	private String prenom;
-	private double moyenne;
-	private double note;
+	private double moyenne;	
+	private double notes;
 
 	public String getNom(){
 		return nom;
