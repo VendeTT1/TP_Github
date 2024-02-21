@@ -3,7 +3,7 @@ public class Etudiant{
 	private String nom;
 	private String prenom;
 	private double moyenne;	
-	private double notes;
+	private double notesssssssssssssssss;
 
 	public String getNom(){
 		return nom;
