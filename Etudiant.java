@@ -4,7 +4,7 @@ public class Etudiant{
 	private String prenom;
 	private double moyenne;	
 	private float notes;
-
+	
 	public String getNom(){
 		return nom;
 	}
