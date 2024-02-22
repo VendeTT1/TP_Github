@@ -13,5 +13,14 @@ public class Etudiant{
 		this.nom = nom_etd;
 		return nom;
 	}
+ public String getPrenom(){
+                return prenom;
+        }
+
+        public String setPrenom(String prenom_etd){
+                this.prenom = prenom_etd;
+                return prenom;
+        }
+
 	
 }
